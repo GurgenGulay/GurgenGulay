@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulaygurgen/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26546501/g%c3%bclay-g%c3%bcrgen?tab=profile) [![Kaggle](https://img.shields.io/badge/Kaggle-turquoise?style=plastic)](https://www.kaggle.com/gulaygurgen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulaygurgen/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26546501/g%c3%bclay-g%c3%bcrgen?tab=profile) [![Kaggle](https://img.shields.io/badge/Kaggle-turquoise?style=plastic&logoSize=width%3D%2275%22%20height%3D%2220)](https://www.kaggle.com/gulaygurgen)
 
 
 # 💻 Tech Stack:
