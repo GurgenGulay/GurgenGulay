@@ -28,15 +28,6 @@
 [![](https://visitcount.itsvg.in/api?id=GurgenGulay&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h2 align="left">Hi 👋! My name is Gülay and I'm a Computer Engineer, from Türkiye.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurgenGulay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GurgenGulay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://masterpiecer-images.s3.yandex.net/863a6f35322511ee8ad28e6d7e0d9e35:upscaled"  />
